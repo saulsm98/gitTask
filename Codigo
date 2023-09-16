@@ -1,1 +1,7 @@
 System.out.println("Hola como estan");
+
+
+
+System.out.println("El clima es Salamanca es 26 grados");
+
+System.out.println("Adios");
